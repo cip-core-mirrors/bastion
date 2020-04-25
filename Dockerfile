@@ -76,7 +76,7 @@ RUN cd src && \
 ##
 FROM alpine:3.8
 
-LABEL maintainer="erik@cloudposse.com"
+LABEL maintainer="admin@sgcip.com"
 
 USER root
 
